@@ -6,7 +6,7 @@
 
 ## Olá!
 
-Eu sou Felipe G.S, um **Desenvolvedor Front-end** em desenvolvimento.  
+Eu sou Felipe Gustavo, um **Desenvolvedor Front-end** em desenvolvimento.  
 Apaixonado por criar experiências positivas e tornar a vida das pessoas mais simples.
 
 Me conheça: [felipegs.com](https://felipegs.com/)
