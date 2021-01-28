@@ -6,10 +6,10 @@
 
 ## Hello!
 
-I’m a frontend developer, work with software aimed at ecommerce and education, using web technologies as HTML5, CSS3 and SASS, JavaScript, React.js, Redux, Jest and Enzyme, Single-SPA, Bootstrap/Materialize and tools as Gulp.js, Webpack, Git/GitHub and Firebase.
+I’m a frontend developer with more than 3 years of experience, I worked with software aimed at ecommerce and education, using web technologies as HTML5, CSS3 and Sass(Scss), JavaScript, React.js, Redux(Redux-Saga/Thunk), Jest and Enzyme, Single-SPA, Bootstrap/Materialize, jQuery and tools as Gulp.js, Webpack, Git/GitHub and Firebase.
 
-Always focused in building responsive user interfaces with faithful reproduction of design, working with the UX team to optimize the software’s usability and functionality.
+Always focused in building responsive user interfaces, working with the UX team to optimize the software’s usability and functionality.
 
-At the moment, I’m focused in get in-depth knowledge about libraries and frameworks architecture, in micro-frontends and to build software with quality and performance.
+At the moment, I’m focused in get in-depth knowledge about libraries and frameworks architecture, in micro-frontends and to build software with quality and performance. 
 
 Know me: [felipegs.com](https://felipegs.com/)
