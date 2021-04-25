@@ -1,15 +1,21 @@
-# Felipe Gustavo
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> hello good people
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/felipegustavos/)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/felipegs)
+****
+<br>
+my name is Felipe Gustavo, my pronouns are he/his. I am a brazilian software developer based in São Paulo, Brazil.  
+
+**currently:**
+- working as software engineer at CI&T.
+- studying micro-frontends.
+- building [jetpage.js](https://github.com/felipegs07/jetpage.js).
+
+### you can find me @
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/felipegustavos/)<br>
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/lucasgdb)](https://dev.to/felipegs)<br>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgdbittencourt@gmail.com)](mailto:felipegdas07@gmail.com)
 
-## Hello!
+### last blog posts
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
-I’m a frontend developer with more than 3 years of experience, I worked with software aimed at ecommerce and education, using web technologies as HTML5, CSS3 and Sass(Scss), JavaScript, React.js, Redux(Redux-Saga/Thunk), Jest and Enzyme, Single-SPA, Bootstrap/Materialize, jQuery and tools as Gulp.js, Webpack, Git/GitHub and Firebase.
-
-Always focused in building responsive user interfaces, working with the UX team to optimize the software’s usability and functionality.
-
-At the moment, I’m focused in get in-depth knowledge about libraries and frameworks architecture, in micro-frontends and to build software with quality and performance. 
-
-Know me: [felipegs.com](https://felipegs.com/)
+[**see all posts**](https://dev.to/felipegs)
