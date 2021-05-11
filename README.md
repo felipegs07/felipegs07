@@ -1,6 +1,7 @@
 ## ✌️ hello good people
 
-my name is Felipe Gustavo, my pronouns are he/him. I am a brazilian software developer based in São Paulo, Brazil. Interested in open source development.
+my name is Felipe Gustavo, my pronouns are he/him. I am a brazilian software developer based in São Paulo, Brazil.  
+interested in open source development.
 
 **currently:**
 - 🖥 working as software engineer at CI&T.
