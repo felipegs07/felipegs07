@@ -17,6 +17,8 @@ interested in open source development.
 
 **last blog posts**
 <!-- BLOG:START -->
+- [Some thoughts about frontend learning](https://dev.to/felipegs/some-thoughts-about-frontend-learning-21n2)
+- [Understanding BEMCSS](https://dev.to/felipegs/entendendo-bemcss-5dc7)
 <!-- BLOG:END -->
 
 [**see all posts**](https://dev.to/felipegs)
