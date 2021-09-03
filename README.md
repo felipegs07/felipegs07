@@ -17,6 +17,7 @@ interested in open source development.
 
 **last blog posts**
 <!-- BLOG:START -->
+- [Entendendo BEMCSS](https://dev.to/felipegs/entendendo-bemcss-2if3)
 - [Understanding how the redux data flow really works](https://dev.to/felipegs/redux-in-depth-under-the-hood-of-redux-data-flow-13he)
 - [Some thoughts about frontend learning](https://dev.to/felipegs/some-thoughts-about-frontend-learning-21n2)
 - [Understanding BEMCSS](https://dev.to/felipegs/entendendo-bemcss-5dc7)
