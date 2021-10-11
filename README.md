@@ -6,7 +6,7 @@ interested in open source development.
 **currently:**
 - 🖥 working as software developer at CI&T.
 - 📔 studying micro-frontends.
-- 🛠 building [jetpage.js](https://github.com/felipegs07/jetpage.js).
+- 🛠 writing articles on my [blog](https://felipegs.com/).
 
 **you can find me on:**
 
@@ -17,10 +17,6 @@ interested in open source development.
 
 **last blog posts**
 <!-- BLOG:START -->
-- [What was the starting point for becoming a mid-level frontend engineer?](https://felipegs.com/blog/starting-point-to-become-mid-level)
-- [Understanding how the redux data flow really works](https://felipegs.com/blog/under-the-hood-of-redux-data-flow)
-- [Some thoughts about frontend learning](https://felipegs.com/blog/some-thoughts-about-frontend-learning)
-- [Understanding BEMCSS](https://felipegs.com/blog/understanding-bemcss)
 <!-- BLOG:END -->
 
 [**see all posts**](https://felipegs.com/)
