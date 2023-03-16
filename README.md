@@ -17,6 +17,10 @@ interested in open source software engineering and to solve technical challenges
 
 **last blog posts**
 <!-- BLOG:START -->
+- [What was the starting point for becoming a mid-level frontend engineer?](https://dev.to/felipegs/what-was-the-starting-point-to-become-a-mid-level-frontend-engineer-25gj)
+- [Understanding how the redux data flow really works](https://dev.to/felipegs/redux-in-depth-under-the-hood-of-redux-data-flow-13he)
+- [Some thoughts about frontend learning](https://dev.to/felipegs/some-thoughts-about-frontend-learning-21n2)
+- [Understanding BEMCSS](https://dev.to/felipegs/entendendo-bemcss-5dc7)
 <!-- BLOG:END -->
 
 [**see all posts**](https://dev.to/felipegs)
