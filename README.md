@@ -10,6 +10,6 @@ I am Felipe Gustavo, a brazilian software developer with 7 years of experience w
 
 **you can find me on:**
 
-<a href="https://www.linkedin.com/in/felipegustavos/">Linkedin</a>
-<a href="mailto:felipegdas07@gmail.com">Email</a>
-<a href="https://www.felgus.dev/blog">Blog</a>
+- [Linkedin](https://www.linkedin.com/in/felipegustavos/)
+- [Email](https://www.linkedin.com/in/felipegustavos/)
+- [Blog](https://www.linkedin.com/in/felipegustavos/)
