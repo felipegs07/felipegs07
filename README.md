@@ -11,5 +11,5 @@ I am Felipe Gustavo, a brazilian software developer with 7 years of experience w
 **you can find me on:**
 
 - [Linkedin](https://www.linkedin.com/in/felipegustavos/)
-- [Email](https://www.linkedin.com/in/felipegustavos/)
-- [Blog](https://www.linkedin.com/in/felipegustavos/)
+- [Email](mailto:felipegdas07@gmail.com)
+- [Blog](https://www.felgus.dev/blog)
